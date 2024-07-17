@@ -1,12 +1,10 @@
-# simple-os
-Simple Operating System, OS Assignment of HCMUT, Spring 2023
+# Simple Operating System
+## OS Assignment of HCMUT, Spring 2023
 
-No doubt, the most painful assignment. Lots of work. I literally carried the whole team. 
+Ah, the joys of academia! This project was undoubtedly the most challenging assignment of my academic journey. With countless hours of hard work, I navigated the complexities of building an operating system, tackling everything from schedulers and memory management to synchronization mechanisms.
 
-Working with everything from scheduler, memory management to synchronization mechanisms.
+The initial codebase? A labyrinth of complexity and bugs. (Seriously, why would the professors do that to us?) The tasks were often ambiguous and lacked clear demonstrations, making the process even more arduous.
 
-The initial code is complex and has some bugs... (why would teachers do this?). The tasks were ambiguous and not well demonstrated.
+Back then, my Git skills were non-existent. Every change was meticulously marked with comments like //update and //fix.
 
-I didn't know how to use Git back in the days. Every changes were marked as comments: `//update`, `//fix`.
-
-BTW, getting a 10/10 grade and learning a lot more things made it worthy. What a memorable experience.
+Despite the challenges, I managed to carry the team to victory, earning a perfect 10/10 and gaining invaluable knowledge along the way. It was truly a memorable and rewarding experience.
